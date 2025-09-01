@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 
 from flask import Flask, render_template, request, jsonify, flash, redirect, url_for
 import pandas as pd
