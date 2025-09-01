@@ -1,4 +1,4 @@
-age,gravidity,systolic_bp,diastolic_bp,blood_sugar,bmi,hemoglobin,smoking,alcohol,previous_c_section,previous_complications,prenatal_visits,gestational_age_weeks,fetal_movement,urine_protein,residence,education_level,risk
+﻿age,gravidity,systolic_bp,diastolic_bp,blood_sugar,bmi,hemoglobin,smoking,alcohol,previous_c_section,previous_complications,prenatal_visits,gestational_age_weeks,fetal_movement,urine_protein,residence,education_level,risk
 37,1,152.0,73.0,149.9,26.2,11.9,0,0,0,0,4,23,13,0,urban,secondary,High
 24,1,96.0,80.0,82.3,23.7,10.0,1,0,0,1,1,30,16,0,urban,secondary,High
 27,2,130.0,84.0,60.0,19.8,12.2,1,0,0,0,5,23,23,0,urban,tertiary,Low
