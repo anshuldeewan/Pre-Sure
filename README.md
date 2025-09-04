@@ -1,4 +1,4 @@
-﻿# Pregnancy Risk Predictor 🤱
+﻿# Pre-Sure 🤱
 
 An AI-powered web application for assessing pregnancy risk levels based on medical parameters. This tool uses machine learning algorithms to analyze vital signs and provide risk assessments with actionable recommendations.
 
